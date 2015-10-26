@@ -1,2 +1,2 @@
 # mycode
-my code collections
+常用js代码收集
